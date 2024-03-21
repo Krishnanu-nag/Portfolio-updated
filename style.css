@@ -143,17 +143,17 @@ button{
 }
 .pdown{
     position: relative;
-    bottom: -685px;
+    bottom: -80vh;
     right: -70px;
 }
 .pup{
     position: relative;
-    bottom: -685px;
+    bottom: -80vh;
     right: 70px;
 }
 .cpup{
     position: relative;
-    bottom: -685px;
+    bottom: -80vh;
 
 }
 .heading{
